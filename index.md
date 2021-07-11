@@ -5,25 +5,19 @@ nav_order: 1
 ---
 # Research Data Bootcamp
 Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) 
-____
 
 ## Conveners
 
 Jordan Wrigley  
-Data Librarian
-Center for Research Data and Digital Scholarship (CRDDS)
-University of Colorado Boulder Libraries  
+Data Librarian  
+Center for Research Data and Digital Scholarship  
+University of Colorado Boulder Libraries
 
-Aditya Ranganath
-Data Librarian
-Center for Research Data and Digital Scholarship (CRDDS)
+Aditya Ranganath  
+Data Librarian  
+Center for Research Data and Digital Scholarship  
 University of Colorado Boulder Libraries  
 [Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
-
-ee  
-tt  
-yy  
-
 
 ## Schedule
 
