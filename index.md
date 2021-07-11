@@ -3,27 +3,46 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# A Jekyll template for workshops
-[outpw.github.io/workshop-template](https://outpw.github.io/workshop-template)  
-
+# Research Data Bootcamp
+Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) 
 ____
 
-### Presenters
+## Conveners
 
-Phil White <a href='https://github.com/outpw' target='_blank'><img src='content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Earth, Environment & Geospatial Librarian  
+Jordan Wrigley
+Data Librarian
+Center for Research Data and Digital Scholarship (CRDDS)
 University of Colorado Boulder Libraries  
-[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
 
+Aditya Ranganath
+Data Librarian
+Center for Research Data and Digital Scholarship (CRDDS)
+University of Colorado Boulder Libraries  
+[Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
 
-- Some prerequisites!
-{: .prereq}
+## Schedule
 
-### Goal of this workshop
+### Tuesday, August 3
 
-Or outcomes or whatever you want!
+| Time | Content
+| --- | ---
+| 0:00 | Introductions
+| 0:05 | [Land acknowledgement](content/land-acknowledgement)
+| 0:10 | [Slideshow]()
+| 0:30 | Hands on section
+| 1:20 | Wrap Up/ Q&A
 
-### Schedule
+### Wednesday, August 4 
+
+| Time | Content
+| --- | ---
+| 0:00 | Introductions
+| 0:05 | [Land acknowledgement](content/land-acknowledgement)
+| 0:10 | [Slideshow]()
+| 0:30 | Hands on section
+| 1:20 | Wrap Up/ Q&A
+
+### Thursday, August 4 
 
 | Time | Content
 | --- | ---
@@ -34,8 +53,3 @@ Or outcomes or whatever you want!
 | 1:20 | Wrap Up/ Q&A
 
 _Actual schedule may vary depending on group needs_  
-
-### Workshop Slides
-
-<iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="content/slides/teachGitHub"></iframe>    
-*Click on the slides then press the F key for full screen*
