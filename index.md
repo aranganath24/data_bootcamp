@@ -41,7 +41,7 @@ University of Colorado Boulder Libraries
 | 0:30 | Hands on section
 | 1:20 | Wrap Up/ Q&A
 
-### Thursday, August 4 
+### Thursday, August 5 
 
 | Time | Content
 | --- | ---
