@@ -9,7 +9,7 @@ ____
 
 ## Conveners
 
-Jordan Wrigley
+Jordan Wrigley  
 Data Librarian
 Center for Research Data and Digital Scholarship (CRDDS)
 University of Colorado Boulder Libraries  
@@ -19,6 +19,11 @@ Data Librarian
 Center for Research Data and Digital Scholarship (CRDDS)
 University of Colorado Boulder Libraries  
 [Aditya.Ranganath@colorado.edu](mailto:Aditya.Ranganath@colorado.edu)
+
+ee  
+tt  
+yy  
+
 
 ## Schedule
 
