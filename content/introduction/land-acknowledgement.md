@@ -2,7 +2,7 @@
 layout: default
 title: Land Acknowledgement
 Parent: Introduction
-nav_order: 1.6
+nav_order: 1
 ---
 # Land acknowledgement
 
