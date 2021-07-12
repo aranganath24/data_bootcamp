@@ -11,7 +11,7 @@ Microphones are muted by default to improve audio quality and recording is disab
 
 The Zoom toolbar provides several ways to be part of the conversation:
 
-![Zoom Toolbar](https://github.com/aranganath24/data_bootcamp/blob/master/content/img/zoom_toolbar.png)
+![Zoom Toolbar](https://github.com/aranganath24/data_bootcamp/blob/master/content/img/zoom_toolbar.png?raw=true)
 
 ## Participants window
 The _Participants_ window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors.
