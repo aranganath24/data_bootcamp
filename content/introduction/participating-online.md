@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Participating Online
-parent: Introduction 
+parent: Introduction
 nav_order: 2
 ---
 # Participating online
@@ -11,12 +11,12 @@ Microphones are muted by default to improve audio quality and recording is disab
 
 The Zoom toolbar provides several ways to be part of the conversation:
 
-![Zoom Toolbar](img/zoom_toolbar.png)
+![Zoom Toolbar](data_bootcamp/content/img/zoom_toolbar.png)
 
 ## Participants window
 The _Participants_ window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors.
 
-![Menu at bottom of participants window](img/participants_window_menu.png)
+![Menu at bottom of participants window](data_bootcamp/content/img/participants_window_menu.png)
 
 Clicking an icon makes it appear next to your name in the participants list. Use this to **answer yes/no** questions or to **raise your hand** when instructors invite you to ask a question, comment, or share your screen.
 
@@ -30,4 +30,4 @@ In some cases instructors may invite you to share your screen. Raise your hand t
 
 This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room.
 
-![The annotation toolbar](img/annotate_toolbar.png)
+![The annotation toolbar](data_bootcamp/content/img/annotate_toolbar.png)
