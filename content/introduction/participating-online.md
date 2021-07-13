@@ -16,7 +16,7 @@ The Zoom toolbar provides several ways to be part of the conversation:
 ## Participants window
 The _Participants_ window lists everyone in the session. Click the icons at the bottom of the window to communicate with the instructors.
 
-![Menu at bottom of participants window](data_bootcamp/content/img/participants_window_menu.png)
+![Menu at bottom of participants window](https://raw.githubusercontent.com/aranganath24/data_bootcamp/master/content/img/participants_window_menu.png)
 
 Clicking an icon makes it appear next to your name in the participants list. Use this to **answer yes/no** questions or to **raise your hand** when instructors invite you to ask a question, comment, or share your screen.
 
