@@ -30,4 +30,4 @@ In some cases instructors may invite you to share your screen. Raise your hand t
 
 This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room.
 
-![The annotation toolbar](data_bootcamp/content/img/annotate_toolbar.png)
+![The annotation toolbar](https://raw.githubusercontent.com/aranganath24/data_bootcamp/master/content/img/annotate_toolbar.png)
