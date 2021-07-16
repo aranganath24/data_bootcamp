@@ -28,7 +28,7 @@ University of Colorado Boulder Libraries
 | 9:00 to 9:55 | Welcome and Introduction|Jordan Wrigley and Adi Ranganath|
 | 10:00 to 10:45| Introduction to Microcredentialing|Noah Geisel
 | 10:45 to 11:00| Break|
-| 11:00 to 11:55 | [GitHub and GitHub Pages](data_bootcamp/content/git_github.html)|Phil White
+| 11:00 to 11:55 | [GitHub and GitHub Pages](content/git_github.html)|Phil White
 | 12:00 to 1:30 | Introduction to Containerization|Daniel Trahan
 | 2:30 to 4:30| Installation Clinic| CRDDS Team
 
