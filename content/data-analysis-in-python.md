@@ -6,3 +6,6 @@ nav_order: 1.9
 ---
 
 # Data Analysis in Python
+
+## Instructor
+Tim Dunn 

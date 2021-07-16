@@ -6,3 +6,6 @@ nav_order: 1.8
 ---
 
 # Data Analysis in R
+
+## Instructor
+Jacob Holster

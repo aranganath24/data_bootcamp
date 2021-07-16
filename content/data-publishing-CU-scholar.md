@@ -6,3 +6,9 @@ nav_order: 1.81
 ---
 
 # Data Publishing, Open Access, and CU Scholar
+
+## Instructors
+
+Melissa Cantrell
+
+Andrew Johnson
