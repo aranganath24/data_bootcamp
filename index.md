@@ -4,9 +4,9 @@ title: Home
 nav_order: 1
 ---
 # Research Data Bootcamp
-Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/) 
+Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/)
 
-## Conveners
+## Coordinators
 
 Jordan Wrigley  
 Data Librarian  
@@ -31,7 +31,7 @@ University of Colorado Boulder Libraries
 | 0:30 | Hands on section
 | 1:20 | Wrap Up/ Q&A
 
-### Wednesday, August 4 
+### Wednesday, August 4
 
 | Time | Content
 | --- | ---
@@ -41,7 +41,7 @@ University of Colorado Boulder Libraries
 | 0:30 | Hands on section
 | 1:20 | Wrap Up/ Q&A
 
-### Thursday, August 5 
+### Thursday, August 5
 
 | Time | Content
 | --- | ---
