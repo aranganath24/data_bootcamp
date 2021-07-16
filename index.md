@@ -24,7 +24,7 @@ University of Colorado Boulder Libraries
 ### Tuesday, August 3
 
 | Time | Content|Presenter(s)|
-| --- | ---
+| --- | ---|----|
 | 9:00 to 9:55 | Welcome and Introduction|Jordan Wrigley and Adi Ranganath|
 | 10:00 to 10:45| Introduction to Microcredentialing|Noah Geisel
 | 10:45 to 11:00| Break|
