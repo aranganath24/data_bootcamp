@@ -6,3 +6,6 @@ nav_order: 1.52
 ---
 
 # GitHub and GitHub Pages
+
+## Instructor
+Phil White 
