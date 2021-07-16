@@ -11,7 +11,7 @@ Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](http
 Jordan Wrigley (she/hers)
 Data Librarian  
 Center for Research Data and Digital Scholarship  
-University of Colorado Boulder Libraries
+University of Colorado Boulder Libraries  
 [jordan.wrigley@colorado.edu](mailto:jordan.wrigley@colorado.edu)
 
 Aditya (Adi) Ranganath (he/his)
