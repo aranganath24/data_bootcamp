@@ -34,22 +34,24 @@ University of Colorado Boulder Libraries
 
 ### Wednesday, August 4
 
-| Time | Content
-| --- | ---
-| 0:00 | Introductions
-| 0:05 | [Land acknowledgement](content/land-acknowledgement)
-| 0:10 | [Slideshow]()
-| 0:30 | Hands on section
-| 1:20 | Wrap Up/ Q&A
+| Time | Content|Presenter(s)|
+| --- | ---|----|
+| 9:00 to 9:55 | Finding and Evaluating Data| Jordan Wrigley and Adi Ranganath|
+| 10 to 11:30 | Data Analysis in R (Session 1)|Jacob Holster|
+| 11:30 to 12:00 | Break|
+| 12:00 to 1:30 | Data Analysis in R (Session 2)|Jacob Holster|
+| 2:30 to 4:30 | Clinic|
 
 ### Thursday, August 5
 
-| Time | Content
-| --- | ---
-| 0:00 | Introductions
-| 0:05 | [Land acknowledgement](content/land-acknowledgement)
-| 0:10 | [Slideshow]()
-| 0:30 | Hands on section
-| 1:20 | Wrap Up/ Q&A
+| Time | Content|Presenters(s)
+| --- | ---|
+| 9:00 to 9:55 | Data Publishing and CU Scholar|Melissa Cantrell and Andrew Johnson|
+| 10:00 to 10:55 | Data, Ethics, and Society|Nickoal Eichmann-Kalwara|
+| 11:00 to 12:30 | Data Analysis in Python (Session 1)| Tim Dunn|
+| 12:30 to 1:00 | Break|
+| 1:00 to 2:30 | Data Analysis in Python (Session 2)|Tim Dunn|
+| 2:30 to 3:00|Wrap Up and Next Steps|Jordan Wrigley and Adi Ranganath|
+|3:30 to 5:30| Clinic|
 
 _Actual schedule may vary depending on group needs_  
