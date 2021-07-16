@@ -35,4 +35,4 @@ publication of private communication without consent
 
 Bootcamp participants are required to adhere to this Code of Conduct in all Bootcamp-related activities. If you believe someone has this Code of Conduct in any way, please contact one of the Bootcamp Coordinators. CRDDS reserves the right to expel any participant from the Bootcamp for a Code of Conduct violation.
 
-This Code of Conduct has been adapted from the Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
+This Code of Conduct has been adapted from the Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). 
