@@ -8,12 +8,13 @@ Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](http
 
 ## Coordinators
 
-Jordan Wrigley  
+Jordan Wrigley (she/hers)
 Data Librarian  
 Center for Research Data and Digital Scholarship  
 University of Colorado Boulder Libraries
+[jordan.wrigley@colorado.edu](mailto:jordan.wrigley@colorado.edu)
 
-Aditya Ranganath  
+Aditya (Adi) Ranganath (he/his)
 Data Librarian  
 Center for Research Data and Digital Scholarship  
 University of Colorado Boulder Libraries  
@@ -25,10 +26,9 @@ University of Colorado Boulder Libraries
 
 | Time | Content|Presenter(s)|
 | --- | ---|----|
-| 9:00 to 9:55 | Welcome and Introduction|Jordan Wrigley and Adi Ranganath|
-| 10:00 to 10:45| Introduction to Microcredentialing|Noah Geisel
-| 10:45 to 11:00| Break|
-| 11:00 to 11:55 | [GitHub and GitHub Pages](content/git_github.html)|Phil White
+| 9:00 to 10:15 | Welcome and Introduction|Jordan Wrigley, Adi Ranganath, and Noah Geisel|
+| 10:15 to 11:45 | [GitHub and GitHub Pages](content/git_github.html)|Phil White
+|11:45 to 12:00|Break|
 | 12:00 to 1:30 | [Containerization With Docker](content/docker.html)|Daniel Trahan
 | 2:30 to 4:30| Installation Clinic| CRDDS Team
 
