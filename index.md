@@ -46,7 +46,7 @@ University of Colorado Boulder Libraries
 
 | Time | Content|Presenters(s)
 | --- | ---|----|
-| 9:00 to 9:55 | Data Publishing and CU Scholar|Melissa Cantrell and Andrew Johnson|
+| 9:00 to 9:55 | Data Publishing, Open Access, and CU Scholar|Melissa Cantrell and Andrew Johnson|
 | 10:00 to 10:55 | Data, Ethics, and Society|Nickoal Eichmann-Kalwara|
 | 11:00 to 12:30 | Data Analysis in Python (Session 1)| Tim Dunn|
 | 12:30 to 1:00 | Break|
