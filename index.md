@@ -29,7 +29,7 @@ University of Colorado Boulder Libraries
 | 10:00 to 10:45| Introduction to Microcredentialing|Noah Geisel
 | 10:45 to 11:00| Break|
 | 11:00 to 11:55 | [GitHub and GitHub Pages](content/git_github.html)|Phil White
-| 12:00 to 1:30 | [Introduction to Containerization](content/docker.html)|Daniel Trahan
+| 12:00 to 1:30 | [Containerization With Docker](content/docker.html)|Daniel Trahan
 | 2:30 to 4:30| Installation Clinic| CRDDS Team
 
 ### Wednesday, August 4
