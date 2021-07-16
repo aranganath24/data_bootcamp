@@ -30,7 +30,7 @@ University of Colorado Boulder Libraries
 | 10:45 to 11:00| Break|
 | 11:00 to 11:55 | GitHub and GitHub Pages|Phil White
 | 12:00 to 1:30 | Introduction to Containerization|Daniel Trahan
-| 2:30 to 4:30| Installation Clinic|
+| 2:30 to 4:30| Installation Clinic| CRDDS Team
 
 ### Wednesday, August 4
 
@@ -40,7 +40,7 @@ University of Colorado Boulder Libraries
 | 10 to 11:30 | Data Analysis in R (Session 1)|Jacob Holster|
 | 11:30 to 12:00 | Break|
 | 12:00 to 1:30 | Data Analysis in R (Session 2)|Jacob Holster|
-| 2:30 to 4:30 | Clinic|
+| 2:30 to 4:30 | Clinic| CRDDS Team
 
 ### Thursday, August 5
 
@@ -52,6 +52,6 @@ University of Colorado Boulder Libraries
 | 12:30 to 1:00 | Break|
 | 1:00 to 2:30 | Data Analysis in Python (Session 2)|Tim Dunn|
 | 2:30 to 3:00|Wrap Up and Next Steps|Jordan Wrigley and Adi Ranganath|
-|3:30 to 5:30| Clinic|
+|3:30 to 5:30| Clinic| CRDDS Team
 
 _Actual schedule may vary depending on group needs_  
