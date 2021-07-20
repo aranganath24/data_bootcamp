@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Introduction to GIS in R Studio
-nav_order: 5.3
-has_children: true
+title: Preliminaries
+parent: Data Analysis in R
+nav_order: 1
+has_children: false
 ---
-# Introduction to GIS in R Studio
 
-I prepared this lesson plan for a workshop on GIS analysis in R Studio, taught at NYU Libraries in the summer and fall of 2020.
 
-### __Download the Workshop Data!__
+## R and R Studio Installation
 
-[Introduction to GIS in R Studio Data](https://github.com/aranganath24/R_Geospatial/raw/gh-pages/R-GIS-tutorial-data.zip){: .btn .btn-blue }  
+For instructions on how to download R and R Studio, please see [here](https://jayholster.shinyapps.io/RLevel0Assessment/#section-welcome). 
+
+## Session data
+
+To download the data associated with this Bootcamp session, please click [here](https://github.com/aranganath24/data_bootcamp/blob/adds-R/R_MATERIALS/data/R_session_data.zip).
