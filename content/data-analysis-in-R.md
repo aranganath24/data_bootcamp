@@ -15,4 +15,4 @@ The Pennsylvania State University
 
 ### Introduction
 
-This session will cover the fundamentals of data analysis and visualization using the R Programming Language.
+This session will cover the fundamentals of data analysis and visualization using the R programming language.
