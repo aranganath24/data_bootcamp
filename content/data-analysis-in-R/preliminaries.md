@@ -9,8 +9,11 @@ has_children: false
 
 ## R and R Studio Installation
 
-For instructions on how to download R and R Studio, please see [here](https://jayholster.shinyapps.io/RLevel0Assessment/#section-welcome). 
+For instructions on how to download R and R Studio, please see [here](https://jayholster.shinyapps.io/RLevel0Assessment/#section-welcome).
 
 ## Session data
 
-To download the data associated with this Bootcamp session, please click [here](https://github.com/aranganath24/data_bootcamp/blob/adds-R/R_MATERIALS/data/R_session_data.zip).
+To download the data associated with this Bootcamp session, please click [here](https://github.com/aranganath24/data_bootcamp/raw/adds-R/R_MATERIALS/data/R_session_data.zip).
+
+
+https://github.com/aranganath24/data_bootcamp/raw/adds-R/R_MATERIALS/data/R_session_data.zip
