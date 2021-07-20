@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Preliminaries
+title: Lesson Plan
 parent: Data Analysis in R
 nav_order: 2
 has_children: false
 ---
 
+# Data Analysis in R Lesson Plan
 
 If you would like to view the lesson plan in its own window, please click [here](https://aranganath24.github.io/data_bootcamp/R_MATERIALS/BootCamp_R.html).
 
