@@ -8,4 +8,10 @@ nav_order: 1.8
 # Data Analysis in R
 
 ## Instructor
-Jacob Holster
+Jacob Holster, PhD. (he/him/his)
+Lecturer of Music Education
+The Pennsylvania State University
+
+### Introduction
+
+This session will cover the fundamentals of data analysis and visualization using the R Programming Language. For guidance on installing R and R Studio, please see [here](https://jayholster.shinyapps.io/RLevel0Assessment/#section-welcome). 
